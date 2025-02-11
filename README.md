@@ -7,7 +7,7 @@ This repository serves as a personal collection of notes, documentation, and ref
 - **Documentation & Notes**: Keep track of key algorithms, their explanations, and common use cases.
 - **Quick Reference**: Easily reference algorithms that may be needed for academic, work, or job-related tasks.
 - **Learning**: Consolidate knowledge and improve understanding by documenting and explaining algorithms in my own words.
-  
+<!---  
 ## Contents
 
 - **Data Structures**: Arrays, Linked Lists, Trees, Graphs, Stacks, Queues, Heaps, Hashmaps, etc.
@@ -32,6 +32,7 @@ If you'd like to contribute, feel free to fork this repository and submit pull r
 - Improving documentation.
 - Providing examples or use cases.
 - Updating code implementations for efficiency or clarity.
+--->
 
 ## License
 
