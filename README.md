@@ -7,7 +7,7 @@ This repository serves as a personal collection of notes, documentation, and ref
 - **Documentation & Notes**: Keep track of key algorithms, their explanations, and common use cases.
 - **Quick Reference**: Easily reference algorithms that may be needed for academic, work, or job-related tasks.
 - **Learning**: Consolidate knowledge and improve understanding by documenting and explaining algorithms in my own words.
-<!---  
+
 ## Contents
 
 - **Data Structures**: Arrays, Linked Lists, Trees, Graphs, Stacks, Queues, Heaps, Hashmaps, etc.
@@ -15,7 +15,7 @@ This repository serves as a personal collection of notes, documentation, and ref
 - **Time Complexity Analysis**: Understanding the efficiency of algorithms in terms of time and space complexity.
 
 Most of the algorithms and their explanations can be found in more detail on [GeeksforGeeks](https://www.geeksforgeeks.org), which is an excellent resource for algorithmic learning.
-
+<!---  
 ## Structure
 
 - **`/docs`**: Documentation files and explanations of individual algorithms.
